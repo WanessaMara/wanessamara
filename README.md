@@ -3,7 +3,8 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,dotnet,angular)](https://skillicons.dev)
 
 
 <div>
