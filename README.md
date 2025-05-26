@@ -2,9 +2,10 @@
 ## My name is Wanessa Mara!
 
 
-
+## My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=spring,dotnet,angular)](https://skillicons.dev)
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,angular)](https://skillicons.dev)
 
 
 <div>
