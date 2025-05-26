@@ -1,6 +1,10 @@
 # 👋 Hello! Welcome to my GitHub profile!
 ## My name is Wanessa Mara!
-I am passionate about technology and innovation, and I am seeking opportunities that allow me to grow professionally and deepen my knowledge in the fields of Information Technology, software development, and related areas. I am open to new challenges that encourage my technical growth, whether in full-time positions, internships, or trainee programs.
+Sou apaixonada por tecnologia e inovações, e busco oportunidades que me
+permitam evoluir profissionalmente e aprofundar meus conhecimentos nas
+áreas de Tecnologia da Informação, desenvolvimento de software e áreas
+correlatas. Estou aberta a novos desafios que estimulem meu crescimento
+técnico, seja em posições efetivas, estágios ou programas de trainee.
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)
