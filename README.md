@@ -13,7 +13,7 @@ técnico, seja em posições efetivas, estágios ou programas de trainee.
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 ## Develioment Tools
-[![My Skills](https://skillicons.dev/icons?i=gitlab,docker,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,docker,idea,vscode)](https://skillicons.dev)
 ## Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
