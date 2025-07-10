@@ -7,13 +7,15 @@ correlatas. Estou aberta a novos desafios que estimulem meu crescimento
 técnico, seja em posições efetivas, estágios ou programas de trainee.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,ts)](https://skillicons.dev)
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=spring,dotnet,angular)](https://skillicons.dev)
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 ## Develioment Tools
 [![My Skills](https://skillicons.dev/icons?i=gitlab,docker,idea,vscode)](https://skillicons.dev)
+## Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ## Contatos:
 <div>
